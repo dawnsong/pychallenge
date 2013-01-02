@@ -31,3 +31,8 @@ http://www.pythonchallenge.com/pc/return/bull.html
 http://www.pythonchallenge.com/pc/return/5808.html
 12
 http://www.pythonchallenge.com/pc/return/evil.html
+http://www.pythonchallenge.com/pc/return/evil2.jpg
+http://www.pythonchallenge.com/pc/return/evil2.gfx
+curl http://www.pythonchallenge.com/pc/return/evil4.jpg --user huge --pass file
+13
+http://www.pythonchallenge.com/pc/return/disproportional.html
